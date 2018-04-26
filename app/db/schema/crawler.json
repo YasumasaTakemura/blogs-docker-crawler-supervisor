@@ -1,0 +1,32 @@
+[
+  {
+    "name": "path",
+    "type": "str",
+    "value": null
+  },
+  {
+    "name": "created_at",
+    "type": "datetime",
+    "value": "datetime.datetime.now()"
+  },
+  {
+    "name": "updated_at",
+    "type": "datetime",
+    "value": "datetime.datetime.now()"
+  },
+  {
+    "name": "crawled",
+    "type": "bool",
+    "value": false
+  },
+  {
+    "name": "stored",
+    "type": "bool",
+    "value": false
+  },
+  {
+    "name": "crawled_at",
+    "type": "datetime",
+    "value": null
+  }
+]
